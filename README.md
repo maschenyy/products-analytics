@@ -1,6 +1,6 @@
 # Product Analytics Portfolio
 
-Building toward a Product Analyst role (Europe / remote), with an AI-product angle.
+Building toward a Product Analyst role, with an AI-product angle.
 
 Background: CS degree, SQL, Python, plus hands-on LLM/prompt-testing and AI-pipeline QA from current work.
 
